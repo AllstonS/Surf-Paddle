@@ -1,0 +1,45 @@
+
+#menu-outer{
+  height:84px;
+}
+header{
+  border-style:200px solid #0066CC;
+  background-color:#0066CC;
+  opacity:0.8;
+}
+#container{
+  height:400px;
+  width:400px;
+  position:relative;
+#image{
+  position:absolute;
+  left:0;
+  top:0;
+}
+}
+img{
+  width: 400px;
+  length: 2200px;
+
+}
+ul{
+  list-style-type: none
+}
+ul#horizontal-list{
+  min-width: 696px;
+  list-style: none;
+  padding-top: 20px;
+}
+ul#horizontal-list li{
+  display: inline;
+}
+h1{
+  font-style:30px;
+  color:white;
+  font-family: Arial; sans-serif;
+}
+li{
+  font-size:7px;
+  font-color:grey;
+  font-family: sans-serif;
+}
