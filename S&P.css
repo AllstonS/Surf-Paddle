@@ -1,6 +1,4 @@
-* {
-  border: 1px dashed black;
-}
+
 #menu-outer{
   height:84px;
 }
@@ -77,7 +75,7 @@ section{
 h1{
   font-family:Helvetica; sans-serif;
   font-weight: 100;
-  font-size:60px;
+  font-size:80px;
   color:white;
 }
 h6{
@@ -87,39 +85,49 @@ h6{
   font-family:Helvetica; sans-serif;
 }
 article{
-  width:700px;
-  margin-left:400px;
-
+  width:640px;
+  margin:20px;
 }
 h5{
-  font-weight:100;
+  letter-spacing: -3.0px;
+  font-weight:500;
   font-size:50px;
-  font-family:Arial; snas-serif;
+  font-family: 'Futura Condensed' sans-serif;
   color:#120054;
   margin-top:0;
   margin-bottom:0;
   padding:0
 }
-{
-  font-family:Arial, serif;
-  color:#66525b;
-  font-size:14px;
+.head1{
+  width:15px;
+  height:15px;
 }
 p{
-  font-familiy:Arial, serif;
+  font-familiy: Helvetica, serif;
   color:#66525b;
   font-size:14px;
 }
+.author{
+  display:inline-block;
+  color:#0067a3;
+  width: 75px;
+  margin:0 auto;
+  padding: 0;
+}
 .name{
-  float:left;
   text-align:left;
   font-family: Arial, serif;
   font-size:10px;
   color:#0067a3;
   width:70px;
-
 }
 .date{
+  display: inline-block;
   font-size:10px;
+}
+h3{
+  font-family: Helvetica; sans-serif;
+  color:#0067a3;
+  font-weight: 100;
 }
 aside{}
